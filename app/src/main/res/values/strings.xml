@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IT SPARK</string>
+    <string name="app">ca-app-pub-3983354262524440~3540506612</string>
+    <string name="google_ad_id">ca-app-pub-3983354262524440/6493973014</string>
+    <string name="make_money">Make money with Firebase Admon</string>
+    <string name="integration">Easy integration, secure money</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

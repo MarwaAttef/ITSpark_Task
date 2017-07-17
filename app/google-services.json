@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "238141638429",
+    "firebase_url": "https://fir-ads-8c7f2.firebaseio.com",
+    "project_id": "fir-ads-8c7f2",
+    "storage_bucket": "fir-ads-8c7f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238141638429:android:79ced86f98bec06e",
+        "android_client_info": {
+          "package_name": "com.example.marwa.firebaseads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238141638429-c1f7ogc7aeaq7nml30gp5u6ossptvmdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkPdEWuIzhrXGk7ohpQeXEM78z9nocXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
